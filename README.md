@@ -90,6 +90,7 @@ HD-Map will often record the precise location and height of traffic lights great
 Standard OpenDRIVE v.s. Apollo OpenDRIVE
 -----------------------------------------------------------------------------
 |Main Difference	|Standard OpenDRIVE|	Apollo OpenDRIVE|
+|----------------|------------------|-----------------|
 |Application Scenario|	Primarily used in simulation scenarios	|Primarily applied to real-world self-driving scenes|
 |Elemental Form Expression|	Describe lane shape using curve equations and offsets based on reference line|	Describe element shapes using absolute coordinate sequences|
 |Elemental Richness|	Provide common element types such as Road, Junction, Signal, and Object|	Refine element expression and enrich element attributes. Such as adding new no-parking areas, crosswalks, deceleration belts, stop lines, parking allowance signs, deceleration allowance signs, etc.|
